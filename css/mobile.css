@@ -264,6 +264,9 @@ h3 {
   border-radius: 13.9792px;
   margin-bottom: 24.16px;
 }
+.section-5 .sec5-box:last-child{
+  margin-bottom: 47.16px!important;
+}
 .sec5-box > .box-8 >h4{
   margin-bottom: 0;
 }
