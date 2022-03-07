@@ -173,3 +173,81 @@ h3 {
 .section-2{
   padding: 75px 34px 0 34px;
 }
+
+
+/* !Section - 7 */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+.section-7 {
+background-color: #9DC9C8;
+
+padding: 62px  0   63.46px 57px;
+
+}
+
+.h2 {
+height: 63px;
+width: 224px;
+border-radius: nullpx;
+font-family: Roboto Slab;
+Font-style: Bold;
+Font-size: 26px;
+Line-height: 26px;
+Line-height: 101%;
+Align: Left;
+}
+
+.p1-sect7 {
+height: 14.911112785339355px;
+width: 79.21527862548828px;
+left: 33.848388671875px;
+top: 4057.3251953125px;
+border-radius: nullpx;
+}
+.p2-sect7 {
+height: 84.3409652709961px;
+width: 224.13265991210938px;
+left: 33.848388671875px;
+top: 4071.3046875px;
+border-radius: nullpx; 
+Font-family: Roboto;
+Font-style: Regular;
+Font-size: 37px;
+Line-height: 38px;
+Line-height: 101%;
+
+}
+.p3-sect7 {
+    height: 47px;
+    width: 138px;
+border-radius: nullpx;
+}
+.p4-sect7 {
+    
+    height:38px;
+    width: 140px;
+    border-radius: nullpx;
+    height: 47px;
+width: 138px;
+border-radius: nullpx;
+}
+.container-sect7 {
+    display: flex;
+}
+.sect7-right {
+    padding-left: 31px;
+}
+.sect7-left {
+    padding-right: 31px;
+}
+
+
+
+
+
+
+
+
+
+
+
