@@ -111,6 +111,9 @@ p.author {
 }
 
 /* !section-2 */
+.section-2{
+  padding: 75px 30.53px 0 36px;
+}
 .text-container > h1 {
   width: 170.08px;
   height: 43.34px;
@@ -162,4 +165,11 @@ h3 {
   font-weight: normal;
   font-size: 10px;
   line-height: 130%;
+}
+
+
+
+/* !Section - 5 */
+.section-2{
+  padding: 75px 34px 0 34px;
 }
