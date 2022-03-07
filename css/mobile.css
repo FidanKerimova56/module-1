@@ -1,19 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Courier+Prime&family=Lato:wght@300;400&family=Maven+Pro:wght@400;500;600;800&family=Montserrat:wght@300;500;700;800;900&family=Roboto+Slab:wght@700&family=Roboto:wght@100;300;400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Courier+Prime&family=Lato:wght@300;400&family=Maven+Pro:wght@400;500;600;800&family=Montserrat:wght@300;500;700;800;900&family=Roboto+Slab:wght@700&family=Roboto:wght@100;300;400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Courier+Prime&family=Lato:wght@300;400&family=Maven+Pro:wght@400;500;600;800&family=Montserrat:wght@300;500;700;800;900&family=Roboto+Slab:wght@100;200;300;700&family=Roboto:wght@100;300;400;500;700&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
-
-
-
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 
 /* !Global css */
 .d-flex {
@@ -117,7 +113,7 @@ p.author {
 }
 
 /* !section-2 */
-.section-2{
+.section-2 {
   padding: 75px 30.53px 0 36px;
 }
 .text-container > h1 {
@@ -174,175 +170,185 @@ h3 {
 }
 
 /* ! Section-3 */
-h1 { 
-  padding-top: 76px;
-width: 310.8px;
-height: 43.34px;
-font-family: Roboto Slab;
-font-style: normal;
-font-weight: bold;
-font-size: 26px;
-line-height: 101.38%;
-color: #000000;
-}
-.sec3-vebinar{
+.sec3-vebinar {
   width: 69.9px;
-height: 18.17px;
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 12px;
-line-height: 130%;
-color: #1E4681;
+  height: 18.17px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 130%;
+  color: #1e4681;
 }
-.sec3-1{
-width: 180px;
-height: 48px;
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 10px;
-line-height: 130%;
-color: #000000;
+.sec3-1 {
+  width: 180px;
+  height: 48px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 130%;
+  color: #000000;
 }
-.sec3-Доступ-навсегда{ 
-width: 99.72px;
-height: 18.17px;
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 12px;
-line-height: 130%;
-color: #1E4681;
+.sec3-Доступ-навсегда {
+  width: 99.72px;
+  height: 18.17px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 130%;
+  color: #1e4681;
 }
-.sec3-2{ 
-width: 165px;
-height: 51px;
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 10px;
-line-height: 130%;
-color: #000000;
+.sec3-2 {
+  width: 165px;
+  height: 51px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 130%;
+  color: #000000;
 }
-.sec3-Общение{
-width: 69.9px;
-height: 18.17px;
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 12px;
-line-height: 130%;
-color: #1E4681
+.sec3-Общение {
+  width: 69.9px;
+  height: 18.17px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 130%;
+  color: #1e4681;
 }
-.sec3-3{
-width: 159px;
-height: 31px;
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 10px;
-line-height: 130%;
-color: #000000
+.sec3-3 {
+  width: 159px;
+  height: 31px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 130%;
+  color: #000000;
 }
-
-
 
 /* ! Section -4 */
 
-
-
-
 /* !Section - 5 */
-.section-2{
+.section-2 {
   padding: 75px 34px 0 34px;
 }
-
-
-
+.section-5 {
+  padding: 75px 34px 0 34px;
+}
+.section-5 > h2 {
+  margin-bottom: 35.66px;
+  width: 421.7px;
+  height: 43.34px;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 101.38%;
+}
+.sec5-main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.sec5-box {
+  width: 185.92px;
+  height: 152.84px;
+  background: #ffffff;
+  box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+  border-radius: 13.9792px;
+  margin-bottom: 24.16px;
+}
+.sec5-box > .box-8 >h4{
+  margin-bottom: 0;
+}
+.sec5-text {
+  padding-left: 8.85px;
+}
+.sec5-text > h4 {
+  width: 170.08px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 130%;
+  margin-bottom: 14.91px;
+}
+.sec5-text > .name-5,
+.sec5-text > .date-5 {
+  width: 170.08px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 130%;
+  margin: 0;
+}
 
 /* ! Section -6 */
 
-
-
-
-
-
-
 /* !Section - 7 */
 .section-7 {
-background-color: #9DC9C8;
+  background-color: #9dc9c8;
 
-padding: 62px  0   63.46px 57px;
-
+  padding: 62px 0 63.46px 57px;
 }
 
 .h2 {
-height: 63px;
-width: 224px;
-border-radius: nullpx;
-font-family: Roboto Slab;
-Font-style: Bold;
-Font-size: 26px;
-Line-height: 26px;
-Line-height: 101%;
-/* Align: Left; */
+  height: 63px;
+  width: 224px;
+  border-radius: nullpx;
+  font-family: Roboto Slab;
+  font-style: Bold;
+  font-size: 26px;
+  line-height: 26px;
+  line-height: 101%;
+  /* Align: Left; */
 }
 
 .p1-sect7 {
-height: 14.911112785339355px;
-width: 79.21527862548828px;
-left: 33.848388671875px;
-top: 4057.3251953125px;
-border-radius: nullpx;
+  height: 14.911112785339355px;
+  width: 79.21527862548828px;
+  left: 33.848388671875px;
+  top: 4057.3251953125px;
+  border-radius: nullpx;
 }
 .p2-sect7 {
-height: 84.3409652709961px;
-width: 224.13265991210938px;
-left: 33.848388671875px;
-top: 4071.3046875px;
-border-radius: nullpx; 
-Font-family: Roboto;
-Font-style: Regular;
-Font-size: 37px;
-Line-height: 38px;
-Line-height: 101%;
-
+  height: 84.3409652709961px;
+  width: 224.13265991210938px;
+  left: 33.848388671875px;
+  top: 4071.3046875px;
+  border-radius: nullpx;
+  font-family: Roboto;
+  font-style: Regular;
+  font-size: 37px;
+  line-height: 38px;
+  line-height: 101%;
 }
 .p3-sect7 {
-    height: 47px;
-    width: 138px;
-border-radius: nullpx;
+  height: 47px;
+  width: 138px;
+  border-radius: nullpx;
 }
 .p4-sect7 {
-    
-    height:38px;
-    width: 140px;
-    border-radius: nullpx;
-    height: 47px;
-width: 138px;
-border-radius: nullpx;
+  height: 38px;
+  width: 140px;
+  border-radius: nullpx;
+  height: 47px;
+  width: 138px;
+  border-radius: nullpx;
 }
 .container-sect7 {
-    display: flex;
+  display: flex;
 }
 .sect7-right {
-    padding-left: 31px;
+  padding-left: 31px;
 }
 .sect7-left {
-    padding-right: 31px;
+  padding-right: 31px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
