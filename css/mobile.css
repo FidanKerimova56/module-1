@@ -380,7 +380,7 @@ h3 {
   padding: 62px 0 63.46px 57px;
 }
 
-.h2 {
+.h2-sect7 {
   height: 63px;
   width: 224px;
   border-radius: nullpx;
@@ -412,17 +412,12 @@ h3 {
   line-height: 101%;
 }
 .p3-sect7 {
-  height: 47px;
-  width: 138px;
-  border-radius: nullpx;
+  height: 42px;
+  width: 148px;
 }
 .p4-sect7 {
-  height: 38px;
+  height: 50px;
   width: 140px;
-  border-radius: nullpx;
-  height: 47px;
-  width: 138px;
-  border-radius: nullpx;
 }
 .container-sect7 {
   display: flex;
@@ -433,3 +428,51 @@ h3 {
 .sect7-left {
   padding-right: 31px;
 }
+.container-sect7 {
+  margin-right: -31px;
+  margin-left:-31px ;
+}
+h3  {
+Font-family: Roboto;
+Font-style: Regular;
+Font-size: 12px;
+Line-height: 12px;;
+Line-height: 101%;
+height: 14.911112785339355px;
+width: 136.995849609375px;
+border-radius: nullpx;
+}
+
+h4  {
+  Font-family: Roboto;
+  Font-style: Regular;
+  Font-size: 12px;
+  Line-height: 12px;
+  Line-height: 101%;
+  height: 14px;
+width: 151px;
+border-radius: nullpx;
+
+}
+.h2-sect7 {
+  padding-top: 69px;
+}
+
+
+/* !Footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
