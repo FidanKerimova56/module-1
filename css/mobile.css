@@ -311,72 +311,79 @@ line-height: 150%;
 }
 
 /* ! Section -6 */
-.section-6 {
-  background: #efefef;
-  margin-top: 89px;
-  border-radius: 0px;
+.section-6{
   height: 423px;
+  background-color: #EFEFEF;
+  margin-top: 47px;
 }
-.galava {
-  font-family: Roboto Slab;
-  font-style: Bold;
-  font-size: 26px;
-  height: 69px;
-  width: 257px;
+.galava{
   padding-top: 42px;
-
-  margin: 42px 83px auto 50px;
-}
-.jivot {
-  background-color: white;
-  border-radius: 17.38px;
-  height: 260px;
-  width: 380px;
-  border-radius: 13.979166030883789px;
-  margin: 60px auto auto auto;
-  padding: auto;
-}
-.tekst {
-  width: 360px;
-  font-family: Roboto;
-  font-size: 12px;
-  margin: auto;
-  padding: 18px 21px 119px 21px;
+  padding-left: 36px;
+  color: #000000;
+  font-family: Roboto Slab;
+  font-size: 26px;
   font-style: normal;
-  font-weight: 400;
-  line-height: 15px;
+  font-weight: 700;
+  line-height: 26px;
   letter-spacing: 0em;
-  vertical-align: top;
-  text-align: left;
+  width: 300px;
 }
-.noqi {
+.jivot{
+  margin-top: 11px;
+  margin-left: 36px;
+  height: 248px;
+  width: 308px;
+  border-radius: 14px;
+  background-color: #ffffff;
+  }
+  .tekst{
+  height: 111px;
+  width: 266px;
+  border-radius: nullpx;
+  font-family: Roboto;
+ font-size: 10px;
+ font-style: normal;
+ font-weight: 400;
+ line-height: 15px;
+ letter-spacing: 0em;
+ margin-left: 21px;
+ padding-top: 18px;
+}
+.ramo{
   display: flex;
   justify-content: flex-start;
+  margin-left: 18px;
+  padding-top: 15px;
+  
 }
-.devocka {
-  width: 95px;
-  height: 75px;
+.ecos{
+  align-items: center;
+  margin-top: 44px;
+  margin-left: 13px;
+}
+.devocka{
+  height: 84px;
+width: 80px;
+border-radius: 0px;
+margin-top:27px ;
 
-  position: relative;
-  bottom: 110px;
-  left: 75px;
 }
-.zavut {
-  font-family: Roboto Slab;
-  font-style: Bold;
-  font-size: 17px;
-  line-height: 17px;
-  line-height: 101%;
-  width: 204.45px;
-  height: 34.17px;
+.imya{
+  height: 32px;
+width: 164px;
+border-radius: nullpx;
+font-family: Roboto Slab;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 14px;
+letter-spacing: 0em;
+color: #000000;
 }
-.ecos {
-  position: relative;
-  bottom: 95px;
-  left: 95px;
-}
-.face {
-  padding-top: 0%;
+.face{
+height: 17px;
+width: 14px;
+border-radius: 0px;
 }
 
 /* !Section - 7 */
