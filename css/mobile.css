@@ -4,6 +4,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&family=Lato:wght@300;400&family=Maven+Pro:wght@400;500;600;800&family=Montserrat:wght@300;500;700;800;900&family=Roboto+Slab:wght@100;200;300;700&family=Roboto:wght@100;300;400;500;700&display=swap");
 
 * {
   margin: 0;
@@ -117,7 +118,7 @@ p.author {
 
 /* !section-2 */
 .section-2 {
-  padding: 75px 30.53px 0 36px;
+  padding: 75px 35px 0 35px;
 }
 .text-container > h1 {
   width: 170.08px;
@@ -173,8 +174,20 @@ h3 {
 }
 
 /* ! Section-3 */
-.sec3-vebinar {
-  width: 69.9px;
+.section-3 {
+  padding: 55px 0 73px 35px;
+}
+.section-3 > h2 {
+  width: 310.8px;
+  height: 43.34px;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 101.38%;
+  margin-bottom: 16.66px;
+}
+.section-3  h3 {
   height: 18.17px;
   font-family: Roboto;
   font-style: normal;
@@ -182,28 +195,19 @@ h3 {
   font-size: 12px;
   line-height: 130%;
   color: #1e4681;
+  margin: 0;
 }
-.sec3-1 {
-  width: 180px;
-  height: 48px;
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 10px;
-  line-height: 130%;
-  color: #000000;
+.section-3  .sec3-1{
+width: 180px;
+height: 48px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 130%;
+margin-bottom: 10px;
 }
-.sec3-Доступ-навсегда {
-  width: 99.72px;
-  height: 18.17px;
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 12px;
-  line-height: 130%;
-  color: #1e4681;
-}
-.sec3-2 {
+.section-3  .sec3-2{
   width: 165px;
   height: 51px;
   font-family: Roboto;
@@ -211,19 +215,8 @@ h3 {
   font-weight: normal;
   font-size: 10px;
   line-height: 130%;
-  color: #000000;
 }
-.sec3-Общение {
-  width: 69.9px;
-  height: 18.17px;
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 12px;
-  line-height: 130%;
-  color: #1e4681;
-}
-.sec3-3 {
+.section-3  .sec3-3{
   width: 159px;
   height: 31px;
   font-family: Roboto;
@@ -231,15 +224,36 @@ h3 {
   font-weight: normal;
   font-size: 10px;
   line-height: 130%;
-  color: #000000;
 }
+
 
 /* ! Section -4 */
 
-/* !Section - 5 */
-.section-2 {
-  padding: 75px 34px 0 34px;
+.section-4{
+  padding-left:35px;
 }
+.section-4 >h2{
+width: 310.8px;
+height: 43.34px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 101.38%;
+}
+.section-4 ul{
+  margin-left: 15px;
+  width: 299px;
+height: 174px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 150%;
+}
+
+
+/* !Section - 5 */
 .section-5 {
   padding: 75px 34px 0 34px;
 }
@@ -435,7 +449,7 @@ h3 {
   border-radius: nullpx;
 }
 
-h4 {
+/* h4 {
   font-family: Roboto;
   font-style: Regular;
   font-size: 12px;
@@ -444,7 +458,7 @@ h4 {
   height: 14px;
   width: 151px;
   border-radius: nullpx;
-}
+} */
 .h2-sect7 {
   padding-top: 69px;
 }
@@ -513,7 +527,6 @@ footer {
   line-height: 101.38%;
   margin: 0;
 }
-.footer-mail{
+.footer-mail {
   margin-bottom: 48.99px;
 }
-
