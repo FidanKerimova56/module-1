@@ -231,40 +231,9 @@ h3 {
   color: #000000;
 }
 
-/* ! Section-4 */
-h2{
-  margin-top: 73px;
-  margin-left: 36px;
-  width: 310.8px;
-  height: 43.34px;
-  font-family: Roboto Slab;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 26px;
-  line-height: 101.38%;
-  /* or 26px */
-  
-  
-  color: #000000;
-  }
-  ul{ 
-  width: 299px;
-  height: 174px;
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 12px;
-  line-height: 150%;
-  /* or 18px */
-  margin-left: 44px;
-  margin-top: 10px;
-  
-  
-  color: #000000;
-  
+/* ! Section -4 */
 
 /* !Section - 5 */
-
 .section-2 {
   padding: 75px 34px 0 34px;
 }
@@ -323,7 +292,6 @@ h2{
   line-height: 130%;
   margin: 0;
 }
-
 
 /* ! Section -6 */
 .section-6{
@@ -492,20 +460,3 @@ border-radius: nullpx;
 
 
 /* !Footer */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> main
-
