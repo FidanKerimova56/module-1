@@ -18,6 +18,9 @@
 .justify-between {
   justify-content: space-between;
 }
+.align-center {
+  align-items: center;
+}
 .justify-end {
   justify-content: flex-end;
 }
@@ -294,30 +297,23 @@ h3 {
 }
 
 /* ! Section -6 */
-.section-6{
-  background: #EFEFEF;
+.section-6 {
+  background: #efefef;
   margin-top: 89px;
   border-radius: 0px;
   height: 423px;
-
-  
-  
-  
-  }
-  .galava{
-  
-  Font-family: Roboto Slab;
-  Font-style: Bold;
-  Font-size: 26px;
+}
+.galava {
+  font-family: Roboto Slab;
+  font-style: Bold;
+  font-size: 26px;
   height: 69px;
   width: 257px;
   padding-top: 42px;
 
-  margin:42px 83px auto 50px ;
-  
-  
-  }
-  .jivot{
+  margin: 42px 83px auto 50px;
+}
+.jivot {
   background-color: white;
   border-radius: 17.38px;
   height: 260px;
@@ -325,14 +321,11 @@ h3 {
   border-radius: 13.979166030883789px;
   margin: 60px auto auto auto;
   padding: auto;
-
-  
-  
-  }
-  .tekst{
+}
+.tekst {
   width: 360px;
-  Font-family: Roboto;
-  Font-size: 12px;
+  font-family: Roboto;
+  font-size: 12px;
   margin: auto;
   padding: 18px 21px 119px 21px;
   font-style: normal;
@@ -340,38 +333,37 @@ h3 {
   line-height: 15px;
   letter-spacing: 0em;
   vertical-align: top;
-  text-align:left;
-  }
-  .noqi{
+  text-align: left;
+}
+.noqi {
   display: flex;
   justify-content: flex-start;
-  }
-  .devocka{
-    width: 95px;
-  Height: 75px;
-  
+}
+.devocka {
+  width: 95px;
+  height: 75px;
+
   position: relative;
   bottom: 110px;
   left: 75px;
-  }
-  .zavut{
-    Font-family: Roboto Slab;
-    Font-style: Bold;
-    Font-size: 17px;
-    Line-height: 17px;
-    Line-height: 101%;
-    width: 204.45px;
-  Height: 34.17px;
-  }  
-  .ecos{
+}
+.zavut {
+  font-family: Roboto Slab;
+  font-style: Bold;
+  font-size: 17px;
+  line-height: 17px;
+  line-height: 101%;
+  width: 204.45px;
+  height: 34.17px;
+}
+.ecos {
   position: relative;
-    bottom:95px;
-    left:95px;
-  }
-  .face{
-    padding-top: 0%;
-   
-  }
+  bottom: 95px;
+  left: 95px;
+}
+.face {
+  padding-top: 0%;
+}
 
 /* !Section - 7 */
 .section-7 {
@@ -430,33 +422,98 @@ h3 {
 }
 .container-sect7 {
   margin-right: -31px;
-  margin-left:-31px ;
+  margin-left: -31px;
 }
-h3  {
-Font-family: Roboto;
-Font-style: Regular;
-Font-size: 12px;
-Line-height: 12px;;
-Line-height: 101%;
-height: 14.911112785339355px;
-width: 136.995849609375px;
-border-radius: nullpx;
+h3 {
+  font-family: Roboto;
+  font-style: Regular;
+  font-size: 12px;
+  line-height: 12px;
+  line-height: 101%;
+  height: 14.911112785339355px;
+  width: 136.995849609375px;
+  border-radius: nullpx;
 }
 
-h4  {
-  Font-family: Roboto;
-  Font-style: Regular;
-  Font-size: 12px;
-  Line-height: 12px;
-  Line-height: 101%;
+h4 {
+  font-family: Roboto;
+  font-style: Regular;
+  font-size: 12px;
+  line-height: 12px;
+  line-height: 101%;
   height: 14px;
-width: 151px;
-border-radius: nullpx;
-
+  width: 151px;
+  border-radius: nullpx;
 }
 .h2-sect7 {
   padding-top: 69px;
 }
 
-
 /* !Footer */
+footer {
+  background-color: #000000;
+  color: white;
+  padding: 23.3px 0 12px 37.85px;
+}
+.footer-logo > img {
+  width: 53.59px;
+  height: 31.69px;
+  margin-bottom: 13.98px;
+}
+.footer-icons-line {
+  margin-bottom: 47.66px;
+}
+.footer-icons-line > img {
+  margin-right: 9px;
+}
+.footer-icons-line > .insta {
+  width: 15.38px;
+  height: 15.38px;
+}
+.footer-icons-line > .fb {
+  width: 14.91px;
+  height: 14.91px;
+}
+.footer-icons-line > .vk {
+  width: 16.31px;
+  height: 16.31px;
+}
+.footer-icons-line > .wp {
+  width: 15.84px;
+  height: 15.84px;
+}
+.footer-number {
+  margin-bottom: 11.65px;
+}
+.footer-number > img {
+  width: 12.58px;
+  height: 12.58px;
+  margin-right: 10.25px;
+}
+.footer-number > p {
+  width: 107.17px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 101.38%;
+  margin: 0;
+}
+.footer-mail > img {
+  width: 12.58px;
+  height: 8.39px;
+  margin-right: 10.25px;
+}
+.footer-mail > p {
+  width: 125.35px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 101.38%;
+  margin: 0;
+}
+.footer-mail{
+  margin-bottom: 48.99px;
+}
+
