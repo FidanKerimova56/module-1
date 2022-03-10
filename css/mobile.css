@@ -11,7 +11,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 /* !Global css */
 .d-flex {
   display: flex;
@@ -31,10 +30,7 @@
 
 /* !common css */
 .container {
-  border: 1px solid black;
-  /* max-width: 483px; */
-  min-width: 375px;
-  height: 4524px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -43,13 +39,11 @@
   padding: 36px 35px 0 36px;
 }
 .img-logo > img {
-  width: clamp(52.19px, 13.917vw, 85px);
+  width: clamp(52.19px, 13.917vw, 64.87px);
   min-height: 30.75px;
 }
 .icons-line {
   margin-top: 44.5px;
-  width: 74%;
-  max-width: 370px;
 }
 .icon-logo > img {
   width: 10.25px;
@@ -64,12 +58,13 @@
   font-weight: normal;
   font-size: 10px;
   line-height: 115%;
+  margin: 0;
 }
 .icon-logo:nth-child(1) {
   margin-right: 8px;
 }
 .section-1 h2 {
-  width: 100%;
+  width: 292.63px;
   margin-bottom: 10px;
   font-family: Roboto Slab;
   font-style: normal;
@@ -81,7 +76,6 @@
 .sec1-text {
   width: 212.4px;
   height: 28.96px;
-
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
@@ -97,9 +91,8 @@
 .wise-word {
   background-color: #1e4681;
   color: white;
-  padding: 9px 12px;
-  max-width: 322px;
-  width: 74%;
+  padding: 9px 12.59px 9px 12.13px;
+  width: 225.36px;
   font-family: Roboto;
   font-style: normal;
   font-weight: 300;
@@ -111,6 +104,15 @@
   -ms-border-radius: 3px;
   -o-border-radius: 3px;
 }
+.word {
+  width: 200.64px;
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 130%;
+  margin-bottom: 5px;
+}
 p.author {
   align-self: flex-end;
   margin: 0;
@@ -120,7 +122,7 @@ p.author {
 .section-2 {
   padding: 75px 35px 0 35px;
 }
-.text-container > h1 {
+.text-container > h2 {
   width: 170.08px;
   height: 43.34px;
   font-family: Roboto Slab, sans-serif;
@@ -131,7 +133,6 @@ p.author {
 }
 .text {
   width: 308.47px;
-
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
@@ -146,9 +147,12 @@ p {
   justify-content: center;
 }
 .img-1 > img {
-  min-width: 170.55px;
-  min-height: 160.29px;
+  width: 170.55px;
+  height: 160.29px;
   margin-bottom: 45px;
+}
+.sec2-img2 img {
+  display: none;
 }
 h3 {
   margin-bottom: 5px;
@@ -164,8 +168,7 @@ h3 {
 }
 
 .first-second {
-  width: 86.88px;
-  height: 18px;
+  width: 86px;
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
@@ -178,7 +181,6 @@ h3 {
   padding: 55px 0 73px 35px;
 }
 .section-3 > h2 {
-  width: 310.8px;
   height: 43.34px;
   font-family: Roboto Slab;
   font-style: normal;
@@ -188,7 +190,7 @@ h3 {
   margin-bottom: 16.66px;
 }
 .section-3 h3 {
-  height: 18.17px;
+  height: 39px;
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
@@ -270,6 +272,7 @@ h3 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  flex-wrap: wrap;
 }
 .sec5-box {
   width: 185.92px;
@@ -279,11 +282,13 @@ h3 {
   border-radius: 13.9792px;
   margin-bottom: 24.16px;
 }
-.section-5 .sec5-box:last-child {
-  margin-bottom: 47.16px !important;
-}
+
 .sec5-box > .box-8 > h4 {
   margin-bottom: 0;
+}
+.sec5-box > img {
+  width: 185.92px;
+  height: 74.56px;
 }
 .sec5-text {
   padding-left: 8.85px;
@@ -310,9 +315,8 @@ h3 {
 
 /* ! Section -6 */
 .section-6 {
-  height: 423px;
   background-color: #efefef;
-  margin-top: 47px;
+  padding-bottom: 53px;
 }
 .galava {
   padding-top: 42px;
@@ -523,4 +527,7 @@ footer {
 }
 .footer-mail {
   margin-bottom: 48.99px;
+}
+.sinxronizasiya img {
+  width: 141px;
 }
