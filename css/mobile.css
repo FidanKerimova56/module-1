@@ -151,7 +151,7 @@ p {
   height: 160.29px;
   margin-bottom: 45px;
 }
-.sec2-img2 img{
+.sec2-img2 img {
   display: none;
 }
 h3 {
@@ -286,9 +286,9 @@ h3 {
 .sec5-box > .box-8 > h4 {
   margin-bottom: 0;
 }
-.sec5-box > img{
+.sec5-box > img {
   width: 185.92px;
-height: 74.56px;
+  height: 74.56px;
 }
 .sec5-text {
   padding-left: 8.85px;
@@ -337,7 +337,6 @@ height: 74.56px;
   width: 308px;
   border-radius: 14px;
   background-color: #ffffff;
-  
 }
 .tekst {
   height: 111px;
@@ -529,6 +528,6 @@ footer {
 .footer-mail {
   margin-bottom: 48.99px;
 }
-.sinxronizasiya img{
+.sinxronizasiya img {
   width: 141px;
 }
